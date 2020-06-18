@@ -1,0 +1,10 @@
+.column {
+  display: grid;
+  grid-template-rows: 16.6% 16.6% 16.6% 16.6% 16.6% 16.6%;
+
+  border: solid 1px white;
+}
+
+.column_cell {
+  border-bottom: solid 1px white;
+}
